@@ -1,0 +1,4 @@
+teacher
+madam
+sir
+student
